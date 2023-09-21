@@ -1,0 +1,6 @@
+name: static-website-aws-python
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: webapp

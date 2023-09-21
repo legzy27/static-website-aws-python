@@ -1,0 +1,6 @@
+encryptionsalt: v1:yxnz/A+JRe4=:v1:6B7kK6wCgZlVaWJ+:LOpafg4gVr1ZaMK2rpgoam+aN4s0pA==
+config:
+  aws:region: us-west-2
+  static-website-aws-python:errorDocument: error.html
+  static-website-aws-python:indexDocument: index.html
+  static-website-aws-python:path: web
